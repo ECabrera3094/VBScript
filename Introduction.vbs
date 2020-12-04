@@ -48,3 +48,5 @@ End Function
 WScript.Echo(myCall)
 
 myMessage = MsgBox("Mi Mensaje", 4, "Titulo")
+
+WScript.Quit()
