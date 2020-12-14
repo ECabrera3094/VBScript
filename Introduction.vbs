@@ -1,5 +1,3 @@
-Option Explicit
-
 Dim myMessage, intBD, strText, intAge_1, intAge_2, intIndex, myCall
 
 intBD = 30
